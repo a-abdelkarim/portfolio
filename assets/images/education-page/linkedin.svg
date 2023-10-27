@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="120" height="60" fill="#0056D2" xmlns="http://www.w3.org/2000/svg">
+  <style>
+
+@media (prefers-color-scheme: dark) {
+      path {
+        fill: #000000; 
+        opacity: 0.5;
+      }
+    }
+
+</style>
+  <text style="fill: rgb(95, 92, 92); font-family: Verdana; font-size: 2.10419px; font-weight: 700; white-space: pre;" transform="matrix(11.293028, 0, 0, 13.56985, -261.817936, -273.933293)" x="23.509" y="23.1">LinkedIn</text>
+</svg>

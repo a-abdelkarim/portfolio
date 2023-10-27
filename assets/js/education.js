@@ -5,39 +5,39 @@ AOS.init();
 const moocs = document.querySelector(".moocs");
 const moocscards = [
   {
-    title: "Data Science",
+    title: "GIS Mapping",
     cardImage: "assets/images/education-page/coursera2.svg",
-    moocLink: "https://www.coursera.org/browse/data-science",
+    moocLink: "https://coursera.org/verify/JJ5GWDZZAHPV/",
   },
   {
-    title: "Cryptography",
-    cardImage: "assets/images/education-page/udemy.svg",
-    moocLink: "https://www.udemy.com/course/cryptography-for-beginners/",
-  },
-  {
-    title: "Machine Learning",
+    title: "Programming for Everybody",
     cardImage: "assets/images/education-page/coursera2.svg",
-    moocLink: "https://www.coursera.org/learn/machine-learning",
+    moocLink: "https://coursera.org/verify/8YJLMLVG62EV/",
   },
   {
-    title: "Introduction to HTML 5",
-    cardImage: "assets/images/education-page/udacity.svg",
-    moocLink: "https://www.udacity.com/course/intro-to-html-and-css--ud001",
+    title: "Data Visualization with Python",
+    cardImage: "assets/images/education-page/coursera2.svg",
+    moocLink: "https://t coursera.org/verify/NPDSBRE3VZUB/",
   },
   {
-    title: "Introduction to CSS 3",
-    cardImage: "assets/images/education-page/udacity.svg",
-    moocLink: "https://www.udacity.com/course/intro-to-html-and-css--ud001",
+    title: "Initiating and Planning Projects",
+    cardImage: "assets/images/education-page/coursera2.svg",
+    moocLink: "https://coursera.org/verify/DZDCCXB4HC6B",
   },
   {
-    title: "Javascript",
-    cardImage: "assets/images/education-page/udacity.svg",
-    moocLink: "https://www.udacity.com/course/intro-to-javascript--ud803",
+    title: "Python Object-Oriented Programming",
+    cardImage: "assets/images/education-page/linkedin.svg",
+    moocLink: "https://www.linkedin.com/learning/certificates/3136a0bec65ec7e43493e40f19f4bff8510cf80cad71c0017019682181ab2e60",
   },
   {
-    title: "Bootstrap 4",
-    cardImage: "assets/images/education-page/udemy.svg",
-    moocLink: "https://www.udemy.com/course/bootstrap-4-tutorials/",
+    title: "React.js Essential Training",
+    cardImage: "assets/images/education-page/linkedin.svg",
+    moocLink: "https://www.linkedin.com/learning/certificates/04a6d08562d7063c86df35b0c56852fbc209d5e9a1d9724cdee5c5dc74cad708",
+  },
+  {
+    title: "Software Design: From Requirements to Release",
+    cardImage: "assets/images/education-page/linkedin.svg",
+    moocLink: "https://www.linkedin.com/learning/certificates/883660fe801f227e33af99f5c570c7d6c7c3342685e4f166b079fbaa0786e057",
   },
   {
     title: "Intro to React",
@@ -62,7 +62,7 @@ const moocscards = [
   },
   {
     title: "Data Structures & Algorithms",
-    cardImage: "assets/images/education-page/udacity.svg",
+    cardImage: "assets/images/education-page/linkedin.svg",
     moocLink:
       "https://www.udacity.com/course/data-structures-and-algorithms-nanodegree--nd256",
   },
