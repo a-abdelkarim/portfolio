@@ -181,12 +181,28 @@ html[light-mode="dark"] .socialicon{
 ---------------------------
 */
 
- .linkedin-icon{
+.linkedin-icon{
   margin-left: 15px;
 }
 .linkedin:hover .linkedin-icon>rect{
   animation: rect-up 0.3s linear infinite;
 }
+
+/*
+---------------------------
+   Whatsapp MICROANIMATION
+---------------------------
+*/
+
+.whatsapp-icon{
+  margin-left: 15px;
+}
+.whatsapp:hover .whatsapp-icon>rect{
+  animation: rect-up 0.3s linear infinite;
+}
+/* .whatsapp:hover .whatsapp-icon>rect{
+  animation: rect-up 0.3s linear infinite;
+} */
 
 
 @keyframes rect-up {
